@@ -1,0 +1,92 @@
+original_name,opsd_name,energy_source_level_2,country,data_source
+Wind Land,Onshore,Wind,DE,BNetzA
+Wind See,Offshore,Wind,DE,BNetzA
+Klärgas,Sewage and landfill gas,Bioenergy,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Grubengas,Other fossil fuels,Other fossil fuels,DE,BnetzA/ Amprion
+Freifläche PV,Photovoltaics ground,Solar,DE,BNetzA
+Deponiegas,Sewage and landfill gas,Bioenergy,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Biomasse,Biomass and biogas,Bioenergy,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Wasserkraft,Run-of-river,Hydro,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Geothermie,Geothermal,Geothermal,DE,BnetzA / TenneT / 50Hertz / Amprion
+Windenergie Offshore,Offshore,Wind,DE,50Hertz / TenneT
+Solar,Photovoltaics,Solar,DE,TransnetBW / TenneT / 50Hertz / Amprion
+Windenergie,Onshore,Wind,DE,TenneT / 50Hertz / Amprion
+Windenergie an Land,Onshore,Wind,DE,TransnetBW
+HS,high voltage,,DE,BNetzA
+HS/MS,high voltage / medium voltage,,DE,BNetzA
+HöS,extra high voltage,,DE,BNetzA
+HöS/HS,high voltage / extra high voltage,,DE,BNetzA
+MS,medium voltage,,DE,BNetzA
+MS/NS,medium voltage / low voltage,,DE,BNetzA
+NS,low voltage,,DE,BNetzA
+TransnetBW GmbH,TransnetBW,,DE,TransnetBW
+TenneT TSO GmbH,TenneT,,DE,TenneT
+Amprion GmbH,Amprion,,DE,Amprion
+HAV,Offshore,Wind,DK,Energistyrelsen
+LAND,Onshore,Wind,DK,Energistyrelsen
+Land,Onshore,Wind,DK,Energistyrelsen
+Biomasse,Biomass and biogas,Bioenergy,FR,gouv.fr
+Eolien,Wind,Wind,FR,gouv.fr
+Géothermie,Geothermal,Geothermal,FR,gouv.fr
+Hydraulique,Hydro,Hydro,FR,gouv.fr
+Solaire photovoltaïque,Photovoltaics,Solar,FR,gouv.fr
+s,<3,,FR,gouv.fr
+agricultural biogas power-stations,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+"biomass power-stations fired forest, agricultural, garden waste",Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+biomass power-stations fired wood-derivatives and pulp-paper industry production waste,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+biomass power-stations mixed biomass-fired,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+co-fired technology (fossil fuel and biogas),Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+co-fired technology (fossil fuel and biomass),Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+dump biogas power-stations,Sewage and landfill gas,Bioenergy,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity over 10 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+"hydro-electric power-station capacity up to 0,3 MW",Hydro,Hydro,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity up to 1 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity up to 10 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity up to 5 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+mixed biogas power-stations,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+onshore wind power-station,Onshore,Wind,PL,Urzad Regulacji Energetyki
+photovoltaic power-stations,Photovoltaics,Solar,PL,Urzad Regulacji Energetyki
+sewage treatment plant biogas power-stations,Sewage and landfill gas,Bioenergy,PL,Urzad Regulacji Energetyki
+pumped-storage power station or flow hydro-electric power station with pump part,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+Biogas,Biomass and biogas,Bioenergy,Europe,IRENA
+Concentrated Solar Power,Concentrated solar power,Solar,Europe,IRENA
+Geothermal Energy,Geothermal,Geothermal,Europe,IRENA
+Large Hydropower,Hydro,Hydro,Europe,IRENA
+Liquid Biofuels,Biomass and biogas,Bioenergy,Europe,IRENA
+Marine,Marine,Marine,Europe,IRENA
+Medium Hydropower,Hydro,Hydro,Europe,IRENA
+Offshore Wind,Offshore,Wind,Europe,IRENA
+Onshore Wind,Onshore,Wind,Europe,IRENA
+Pumped storage and mixed plants,Hydro,Hydro,Europe,IRENA
+Small Hydropower,Hydro,Hydro,Europe,IRENA
+Solar Photovoltaic,Photovoltaics,Solar,Europe,IRENA
+Solid Biomass,Biomass and biogas,Bioenergy,Europe,IRENA
+Denmark,DK,,Europe,IRENA
+France,FR,,Europe,IRENA
+Germany,DE,,Europe,IRENA
+Poland,PL,,Europe,IRENA
+Bioenergy and other renewale fuels,Bioenergy and renewable waste,Bioenergy,Europe,OPSD
+Solar,Solar,,Europe,OPSD
+Wind,Wind,,Europe,OPSD
+Geothermal,Geothermal,,Europe,OPSD
+Differently categorized hydro,Hydro,,Europe,OPSD
+"Tide, wave, and ocean",Marine,,Europe,OPSD
+ΜΥΗΕ,Run-of-river,Hydro,GR,rae.gr
+ΑΙΟΛΙΚΑ,Onshore,Wind,GR,rae.gr
+ΑΙΟΛΙΚΑ ,Onshore,Wind,GR,rae.gr
+ΑΙΟΛΙΚΑ  ,Onshore,Wind,GR,rae.gr
+ΒΙΟΜΑΖΑ,Biomass and biogas,Bioenergy,GR,rae.gr
+ΦΩΤΟΒΟΛΤΑΪΚΑ,Photovoltaics,Solar,GR,rae.gr
+ΗΛΙΟΘΕΡΜΙΚΑ,Concentrated solar power,Solar,GR,rae.gr
+ΜΙΚΡΑ ΥΔΡΟΗΛΕΚΤΡΙΚΑ,Run-of-river,Hydro,GR,rae.gr
+ΓΕΩΘΕΡΜΙΑ,Geothermal,Geothermal,GR,rae.gr
+Αιολικά,Onshore,Wind,GR,resoffice.gr
+Βιομάζα,Biomass and biogas,Bioenergy,GR,resoffice.gr
+Μεγάλα Υδροηλεκτρικά,Reservoir-PHS,Hydro,GR,resoffice.gr
+Μικρά Υδροηλεκτρικά,Run-of-river,Hydro,GR,resoffice.gr
+Φωτοβολταϊκά (πλήν προγράμματος στεγών),Photovoltaics,Solar,GR,resoffice.gr
+ΔΣ_ΔΔ,interconnected_grid,,GR,resoffice.gr
+ΜΔΔΝ,isolated,,GR,resoffice.gr
+ΧΤ,LV,,GR,resoffice.gr
+ΜΤ,MV,,GR,resoffice.gr
+ΥΤ,HV,,GR,resoffice.gr
